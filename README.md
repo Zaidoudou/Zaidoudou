@@ -110,7 +110,7 @@ Machine Learning • Computer Vision • AI Research • Automation Systems
 
 <h2 align="center">Professional Experience</h2>
 
-### AI Engineer & Founder | **Zaidou DataWorks**
+### AI Engineer & Founder | **Cestra Technologies**
 > *Apr 2025 – Present*
 
 * Development of production AI systems
