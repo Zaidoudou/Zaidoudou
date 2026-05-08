@@ -36,19 +36,23 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Engineering intelligent adaptative systems from research to production.
+Building production-grade AI systems — from research to deployment.
 </p>
 
 <p align="center">
-I am a <b>4th year engineering student in Digital Sciences specialized in Artificial Intelligence</b>, focusing on the design and deployment of <b>production-ready AI systems</b>.
+I am a <b>4th-year MEng Computer Science student at CESI</b>, specializing in <b>Artificial Intelligence</b> with a focus on rigorous system design, real-world deployment, and long-term maintainability.
 </p>
 
 <p align="center">
-My work combines <b>Machine Learning, Computer Vision and Full-Stack Engineering</b> with a strong emphasis on <b>real-world deployment</b>, automation, and industrial use-cases.
+My work spans <b>Computer Vision, Conversational AI, Continual Learning</b> and <b>Autonomous Trading Systems</b> — covering the full ML lifecycle from architecture and training through to production monitoring.
 </p>
 
 <p align="center">
-I currently operate as an <b>AI Engineer and Entrepreneur</b>, building intelligent systems through my company <b>Zaidou DataWorks</b>.
+I operate as <b>Founder & Head of AI at Cestra Technologies</b>, where I lead a team of engineers delivering end-to-end AI solutions across multiple client verticals — evolved from years of independent AI consulting.
+</p>
+
+<p align="center">
+What you'll find here: research experiments, production system prototypes, and tooling built around real deployment constraints.
 </p>
 
 ---
